@@ -1,4 +1,4 @@
-package com.mckesson.hub.test;
+package net.oktaz.glass;
 
 
 import org.junit.Test;

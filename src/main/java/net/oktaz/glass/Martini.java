@@ -1,4 +1,4 @@
-package com.mckesson.hub.test;
+package net.oktaz.glass;
 
 /**
  * Martini takes a size paraemeter and generates a Martini glass in ascii art.

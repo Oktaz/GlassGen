@@ -1,4 +1,4 @@
-package com.mckesson.hub.test;
+package net.oktaz.glass;
 
 
 public class GlassGeneratorException extends Exception {
